@@ -1,1 +1,1 @@
-# proxypool
+# proxypool, using redis + flask
